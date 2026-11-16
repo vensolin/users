@@ -1,1 +1,2 @@
-https://x.com/SynergyESC
+# allowed users
+SynergyESC
